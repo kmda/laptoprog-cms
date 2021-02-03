@@ -1,5 +1,5 @@
 ---
-title: Testing Netlify + Hugo Perdana
+title: 1st Test Netlify + Hugo Perdana
 subtitle: by  teukufarhan.com
 image: /img/home-jumbotron.jpg
 blurb:
