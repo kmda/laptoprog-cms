@@ -1,5 +1,5 @@
 ---
-title: Netlify + Hugo. Done.
+title: Playing with Netlify + Hugo. Done.
 subtitle: by  teukufarhan.com
 image: /img/home-jumbotron.jpg
 blurb:
