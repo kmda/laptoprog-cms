@@ -1,6 +1,6 @@
 ---
-title: Playing with Netlify + Hugo. Done.
-subtitle: by  teukufarhan.com
+title: Playing with Netlify + Hugo + Custom Domain. Done.
+subtitle: by  teukufarhan.com (04/02/2021
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
